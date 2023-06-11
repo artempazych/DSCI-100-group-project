@@ -23,5 +23,5 @@ To replicate the analysis:
 
 The results of the analysis include the evaluation of the classifiers' accuracy, the optimal K value selected, and a comparison between the models. Confusion matrices provide insights into the performance of the models in predicting the risk of fraud.
 
-For detailed code and analysis, refer to the `fraud_prediction_analysis.Rmd` file.
+For detailed code and analysis, refer to the `draft.ipynb` file.
 
